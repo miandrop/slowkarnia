@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/slowkarnia/static/css/main.23188272.css",
-    "main.js": "/slowkarnia/static/js/main.7aa596a2.js",
+    "main.css": "/slowkarnia/static/css/main.064c03a0.css",
+    "main.js": "/slowkarnia/static/js/main.59cb2cad.js",
     "index.html": "/slowkarnia/index.html",
-    "main.23188272.css.map": "/slowkarnia/static/css/main.23188272.css.map",
-    "main.7aa596a2.js.map": "/slowkarnia/static/js/main.7aa596a2.js.map"
+    "main.064c03a0.css.map": "/slowkarnia/static/css/main.064c03a0.css.map",
+    "main.59cb2cad.js.map": "/slowkarnia/static/js/main.59cb2cad.js.map"
   },
   "entrypoints": [
-    "static/css/main.23188272.css",
-    "static/js/main.7aa596a2.js"
+    "static/css/main.064c03a0.css",
+    "static/js/main.59cb2cad.js"
   ]
 }
