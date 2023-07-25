@@ -1,0 +1,51 @@
+.record-button {
+    /* display:inline-block; */
+    /* padding: 5px 4px; */
+    background-color: #eaeaea;
+    border: none;
+    cursor: pointer;
+}
+
+.record-button.active {
+    background-color: #3e8e41;
+    color: white;
+}
+/*
+.record-button-done {
+    display: inline-block;
+    padding: 5px 4px;
+    background-color: rgb(87, 91, 95);
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.record-button-done.active {
+    background-color: rgb(76, 113, 69);
+    color: white;
+} */
+
+/* .record-button-done.onmouse {
+    background-color: rgb(122, 183, 109);
+    color: white;
+} */
+
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+    width: 70%;
+    margin: 50px;
+}
+
+.buttonSegments{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    /* align-items: center; */
+}
+
+.inputButtons{
+    display: block;
+    margin: none;
+    padding: none;
+}
